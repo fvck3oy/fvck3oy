@@ -1,5 +1,3 @@
-<h1 align="center">Test</h1>
-
 
 <h1 align="center">Hi 👋, I'm Pumin Swangjang (3oy)</h1>
 <h3 align="center">A passionate fullstack developer from hell</h3>
