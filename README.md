@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Pumin Swangjang (3oy)</h1>
-<h3 align="center">A passionate fullstack developer from hell</h3>
+<h3 align="center">A passionate fullstack developer from earth</h3>
 
-- 🔭 I’m currently working on **fox you**
+- 🔭 I’m currently working on **samp-th*
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **basic javascript**
 
-- 👯 I’m looking to collaborate on **fox you**
+- 👯 I’m looking to collaborate on **samp**
 
-- 🤝 I’m looking for help with **fox you**
+- 🤝 I’m looking for help with **samp-th**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **fvk3oy@hotmail.com**
+- 📫 How to reach me pumin.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
