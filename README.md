@@ -13,12 +13,11 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me pumin.js
-
+<br/><br/>
 <h5 align="left">Connect with me : </h5>
 <p align="left">
 <a href="https://fb.com/boy.reallife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fvck3oy" height="30" width="40" /></a>
 <br/>
-
   
 <h5 align="left">Frontend : </h5>
 <p align="left"> 
